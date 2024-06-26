@@ -1,0 +1,1 @@
+Comparison of the performance and accuracy of various deep learning models in the task of handwritten digit recognition. The models used include Multi-layer Perceptron (MLP), Convolutional Neural Networks (CNN), and Long Short-Term Memory (LSTM). The are compared on the same dataset i.e. MNIST. 
