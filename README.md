@@ -4,5 +4,3 @@ The performance metrics measured for comparison include training accuracy and lo
 
 ### Results
 ![image](https://github.com/aimanim/Comparative-Analysis-of-Deep-Learning-Models/assets/94145510/96343826-e949-4d88-b385-e32492cd7030)
-![image](https://github.com/aimanim/Comparative-Analysis-of-Deep-Learning-Models/assets/94145510/49690e15-bb61-4d76-a461-742934766a38)
-![image](https://github.com/aimanim/Comparative-Analysis-of-Deep-Learning-Models/assets/94145510/7f060dbd-ce22-4eba-b4b7-a511f85e41ca)
